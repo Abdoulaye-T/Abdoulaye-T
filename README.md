@@ -50,10 +50,10 @@
 <!-- Remplacez VOTRE_REPO_1 et VOTRE_REPO_2 par les noms de vos dépôts publics -->
 <p align="center">
   <a href="https://github.com/Abdoulaye-T/VOTRE_REPO_1">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdoulaye-T&repo=VOTRE_REPO_1&theme=tokyonight" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdoulaye-T&repo=Portail_etudiant&theme=tokyonight" />
   </a>
   <a href="https://github.com/Abdoulaye-T/VOTRE_REPO_2">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdoulaye-T&repo=VOTRE_REPO_2&theme=tokyonight" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdoulaye-T&repo=solid-avenir&theme=tokyonight" />
   </a>
 </p>
 
