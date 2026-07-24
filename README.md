@@ -1,55 +1,53 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm [Votre Prénom]</h1>
-<h3 align="center">[Votre titre, ex: A passionate developer from ...]</h3>
+<h1 align="center">Hi, I'm Abdoulaye</h1>
+<h3 align="center">Building the future, one idea at a time 🚀</h3>
 
 <p align="center">
-  <!-- Ajoutez vos badges de réseaux sociaux ici -->
-  <a href="https://www.linkedin.com/in/developpeur-fullstack/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/votre-compte"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Abdoulaye-T&label=Profile%20views&color=0e75b6&style=flat" alt="Abdoulaye-T" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Fullstack+Developer+%7C+Software+Engineer" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on...
-- 🌱 I’m currently learning...
-- 👯 I’m looking to collaborate on...
-- 💬 Ask me about...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on exciting fullstack projects
+- 🌱 I’m currently learning modern web frameworks and tools
+- 💬 Ask me about web development & software engineering
+- **Fun fact**: I bring ideas to life faster than I choose a Netflix show 🎬💡
 
 ---
 
-### 🛠️ Languages and Tools
-<p>
-  <!-- Utilisez des badges pour vos langages et outils -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+### Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/developpeur-fullstack/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdoulaye-T&show_icons=true&theme=radical" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdoulaye-T&theme=radical" />
+### Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,bootstrap,git,github,mysql,postgres,docker,bash" />
 </p>
 
-<!--
-**Abdoulaye-T/Abdoulaye-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### GitHub Trophies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ..
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdoulaye-T&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdoulaye-T&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdoulaye-T&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdoulaye-T&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
