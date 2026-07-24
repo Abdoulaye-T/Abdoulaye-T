@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Fullstack+Developer+%7C+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Fullstack+Developer+%7C+Software+Engineer+%7C+Odoo+Expert" alt="Typing SVG" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,bootstrap,git,github,mysql,postgres,docker,bash" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,xml,html,css,tailwind,bootstrap,git,github,mysql,postgres,redis,docker,bash,linux,odoo" />
 </p>
 
 ---
