@@ -49,10 +49,10 @@
 
 <!-- Remplacez VOTRE_REPO_1 et VOTRE_REPO_2 par les noms de vos dépôts publics -->
 <p align="center">
-  <a href="https://github.com/Abdoulaye-T/VOTRE_REPO_1">
+  <a href="https://github.com/Abdoulaye-T/Portail_etudiant">
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdoulaye-T&repo=Portail_etudiant&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Abdoulaye-T/VOTRE_REPO_2">
+  <a href="https://github.com/Abdoulaye-T/solid-avenir">
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdoulaye-T&repo=solid-avenir&theme=tokyonight" />
   </a>
 </p>
